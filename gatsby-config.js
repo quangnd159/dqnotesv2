@@ -3,7 +3,7 @@ module.exports = {
     // edit below
     title: `dqnotes`,
     author: `Quang Nguyen`,
-    description: `Just a bunch of random thoughts`,
+    description: `Just a bunch of random notes`,
     siteUrl: `https:dqnotes.com/`,
     social: {
       twitter: `itsquang`,
