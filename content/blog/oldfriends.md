@@ -1,6 +1,7 @@
 ---
-title: 'Old Friends'
+title: "Old Friends"
 date: 2020-03-11T14:12:18+07:00
+tags: friendship, memory
 ---
 
 Whenever I happen to hear a piece of music that I used to listen to for a long stretch of time — be it a movie soundtrack or a song that I associated with my crush — everything comes back, torrentially so. The remnants of the old days become alive and kicking, kicking my heart the hardest: the scent, the sights, the ambience, the whole nine yards. Whenever I listen to this specific song in Vietnamese, I sorely miss my father and tears fill my eyes. This ability of music to trigger vivid memories can be attributed to our brain’s power of association. The more connections are made to a specific event, the more likely we store it permanently in our brain. Music is one of the strongest links because it has been incorporated into our DNA for millennia (The earliest known musical instruments date back 40,000 years!) Another strong link is provided by visual stimuli. I still remember managing to nail down a historical date or number in my history exams. The secret? I sort of recalled that it was printed somewhere in the top right corner of page 102. It’s spatial association.

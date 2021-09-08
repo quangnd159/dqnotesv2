@@ -3,15 +3,15 @@ date: "2020-09-15"
 title: Finally 30
 ---
 
-Today I've officially lived 30 years on what [[Carl Sagan]] called a pale blue dot. Hence this piece of writing where I will jot down a few thoughts. (Almost no polishing applied, apologies. Also, swearing here and there.)
+Today I've officially lived 30 years on what Carl Sagan called a pale blue dot. Hence this piece of writing where I will jot down a few thoughts. (Almost no polishing applied, apologies. Also, swearing here and there.)
 
-I thought I'd write a piece about gratitude, to all the people that have made me who I am today. But that piece would be overwhelmingly long and of little use to whoever happens to read this. And about attitude, [[Tom Rath]] taught me a thing or two in his little book It's Not About You: if you are grateful to someone, tell them all that in person before it is too late.
+I thought I'd write a piece about gratitude, to all the people that have made me who I am today. But that piece would be overwhelmingly long and of little use to whoever happens to read this. And about attitude, Tom Rath taught me a thing or two in his little book It's Not About You: if you are grateful to someone, tell them all that in person before it is too late.
 
 But honestly, thank you Mom and Dad. Thanks for taming the beast in me. Deep inside, I know I'd have turned into a friggin sociopath without you guys.
 It's generally agreed that the age of full maturity, at least as far as brains go, is 25. I'm always that guy who's slower than others, so I'd say mine is 30. I can't believe I'm saying this now, but I am mature.
 
 Maturity is a long process. There are no one single point at which you become mature. For me, there are several mind shifts that led me to this point.
-The first important mind shift was initiated by anh [[Lê Minh Trí]], an incredible classmate during my university years.
+The first important mind shift was initiated by anh Lê Minh Trí, an incredible classmate during my university years.
 
 It was just another normal day when I was sitting on a bench, just beside block C, at my university. He would as usual approach me out of nowhere, but on that day, he had a question for me.
 
@@ -25,23 +25,23 @@ So it's fair to say that Anh Trí's question came to me at the right time, rocki
 
 Anyway, the advent of the Kindle introduced me to the world of the learned.
 
-The second important mind shift: the scholar [[Nguyễn Hiến Lê]]
+The second important mind shift: the scholar Nguyễn Hiến Lê.
 
 Nguyễn Hiến Lê's autobiography was one of the first ebooks I read on the Kindle. I'd never read such a long book before, but his prose kept me going and I finished the book in a few days.
 
 His writing is humble, yet exquisite, using the kind of Vietnamese that was still in infancy, but extremely refined, one you may consider pure and pristine. He made me fall in love with the South, people and scenes. It was this love that pushed me to an extreme: anti-Communism. I was extremely negative and insurgent at the time. Had it not been for a wise man who happened to care about me, I don't know how far into the rabbit's hole (or gulag) I would have gone. (For those who are curious about my current take on politics: I no longer give a fuck.)
 
-![[ess-nguyen-hien-le-trich-doan.png]]
+![Nguyen Hien Le excerpt](/../assets/ess-nguyen-hien-le-trich-doan.png "Book Excerpt")
 
 The book's chapter on his working routine led me to Nguyen Hien Le's another famous book: Tự học. This coincided with my employment at SEAMEO Regional Centre for Lifelong Learning. These events fueled my passion for learning and my conviction about its crucial role in anyone's success in this century. I mean, one way or another, everyone learns their entire life, but once you are aware of its power and commit to it, you're not only helping yourself, you're doing people around you a great service.
 
-My third book by Nguyen Hien Le was [[Confucius]] Analects, bringing me into the world of philosophy. From there, I explored a bit further and eventually found the philosophy of my life.
+My third book by Nguyen Hien Le was Confucius Analects, bringing me into the world of philosophy. From there, I explored a bit further and eventually found the philosophy of my life.
 
-The third, and most, important mind shift: [[Stoicism]]
+The third, and most, important mind shift: Stoicism
 
 I don't remember exactly when I learned about Stoicism. It was probably in 2017, the year I read my first Stoic book – On the Shortness of Life by Seneca. Stoicism immediately hit me as my life philosophy, one that would guide me towards being a better person and a much more meaningful life.
 
-![[ess-marcus-aurelius-quote.png]]
+![Aurelius quote](/../assets/ess-marcus-aurelius-quote.png "Aurelius quote")
 
 Again, I want to emphasize that Stoicism must have come to me at the right time. I'm convinced that most young people will find it hard to believe (and accept) that there are things you have no control over whatsoever, and that we face our mortality every day. If I had been introduced to Stoicism when I was in the second year of college? Nah. I was the epitome of everything immature back then.
 
