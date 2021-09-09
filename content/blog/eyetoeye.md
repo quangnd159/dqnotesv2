@@ -17,7 +17,7 @@ It means to be born and raised by the same parents (or to have no parents at all
 
 > Nobody is superior, nobody is inferior, but nobody is equal either. People are simply unique, incomparable. You are you, I am I.
 >
-> – <cite>Osho</cite>
+> <cite>Osho</cite>
 
 We perceive the reality differently. We never see the same apple: its color and connotation depend on how our brains are wired and whence we come. There is no sameness when it comes to human experience. There will always be nuances, and perhaps more correctly, oceans of discrepancy in the ways we see things. Indeed, our image of the outside world is filtered through lenses crystallized from years of personal experiences, distorted by culturally formed biases, and physically influenced by innate nervous wiring.
 
