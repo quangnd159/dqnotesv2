@@ -1,9 +1,9 @@
 ---
-title: Sneaky Micro-procrastination
+title: Sneaky micro-procrastination
 date: 2021-09-11
 ---
 
-Recently micro-procrastination has crept back into my life: when waiting for a website to load, I'd open the email app to see if there's anything new (and hopefully interesting) waiting in the inbox.
+Recently it has crept back into my life: when waiting for a website to load, I'd open the email app to see if there's anything new (and hopefully interesting) waiting in the inbox.
 
 The good thing is the pilot in me is aware of something being off and takes corrective measures.
 
